@@ -1,0 +1,38 @@
+/* Basic CSS for Beginners */
+
+/* Style the whole page */
+body {
+    background-color: #f4f6f8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading style */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Paragraph style */
+p {
+    color: #555;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* Button style */
+button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #217dbb;
+}
